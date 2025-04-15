@@ -6,7 +6,7 @@ env.read_env()
 BOT_TOKEN = '7010253965:AAEGdWGoYby_AhBRQgbAqi3M8C0bkg4keVw'
 ADMINS = [2083271463]
 IP = 'localhost'
-MAIN_PHOTO = "https://imgur.com/a/M6w5nxC"
+MAIN_PHOTO = "https://i.imgur.com/IwAisiK.jpeg"
 BOT_HANDLE = "KinoverseTvbot"
 BOT_NAME = "KinoverseTv"
 OFFICIAL_CHANNEL = "KinoverseTv"
